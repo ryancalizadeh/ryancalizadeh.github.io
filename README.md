@@ -1,7 +1,8 @@
 This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
 
 ### Activity 1
-a
+![image](https://github.com/user-attachments/assets/a8887de3-d4c8-41f2-bca5-1c3307d6109f)
+
 ### Activity 2
 a
 ### Activity 3

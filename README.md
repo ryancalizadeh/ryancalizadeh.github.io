@@ -5,6 +5,8 @@ This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.
 
 ### Activity 2
 ![image](https://github.com/user-attachments/assets/fd85030d-e7eb-4fb7-a875-5f9ca8f03b9b)
+![image](https://github.com/user-attachments/assets/e7b52eee-4b6d-4739-9f08-1d6c483e1a7e)
+
 
 
 ### Activity 3

@@ -15,14 +15,14 @@ name                     : &name "Ryan Alizadeh"
 description              : &description "Ryan Alizadeh's personal website."
 url                      : https://ryancalizadeh.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ryancalizadeh/ryancalizadeh.github.io"
+repository               : "ryancalizadeh.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_4919.JPG"
+  avatar           : "headshot.jpg"
   name             : "Ryan Alizadeh"
   pronouns         : "He/Him"
   bio              : "MASc Student Studying Data-Driven Control of Energy Systems"

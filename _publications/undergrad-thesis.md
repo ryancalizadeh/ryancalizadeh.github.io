@@ -2,7 +2,7 @@
 title: "Synchronization Problems in Systems Neuroscience"
 collection: publications
 category: Undergraduate Thesis
-date: 2025
+date: 2025-04-15
 venue: 'University of Toronto'
 paperurl: 'http://academicpages.github.io/files/undergrad-thesis.pdf'
 ---

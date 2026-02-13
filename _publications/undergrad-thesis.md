@@ -1,5 +1,5 @@
 ---
-title: "Synchronization Problems in Systems Neuroscience"
+title: "Synchronization Problems in Systems Neuroscience - Undergraduate Thesis"
 collection: publications
 category: Undergraduate Thesis
 date: 2025-04-15

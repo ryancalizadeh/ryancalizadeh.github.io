@@ -16,18 +16,8 @@ Education
 
 Work experience
 ======
-* May 2024 - December 2024, Uken Games
-
-
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* May 2023 - December 2023, Software Engineer at Uken Games
+* May 2022 - September 2022, Software Developer at Rubicon Inc
 
 Publications
 ======
@@ -43,8 +33,9 @@ Talks
   
 Teaching
 ======
-* 
-  
+* January 2026 - April 2026, ELEC 441 Teaching Assistant at UBC
+
 Service and leadership
 ======
-* 
+* September 2022 - May 2025, UofT Engineering Hockey Team Captain, University of Toronto Engineering
+* January 2025 - May 2025, Volunteer Cook, Yonge Street Mission

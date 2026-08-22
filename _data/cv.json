@@ -10,14 +10,9 @@
       "postalCode": "",
       "city": "Vancouver",
       "countryCode": "CA",
-      "region": ""
+      "region": "BC"
     },
     "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
       {
         "network": "GitHub",
         "username": "ryancalizadeh",
@@ -25,24 +20,59 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "University of Toronto Concrete Toboggan Team",
+      "position": "Mechanical Lead",
+      "website": "",
+      "startDate": "2022-04",
+      "endDate": "2025-05",
+      "summary": "Lead the mechanical design of 3x award-winning and 1x champion concrete toboggan team",
+      "highlights": []
+    },
+    {
+      "company": "Uken Games",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "2023-05",
+      "endDate": "2023-12",
+      "summary": "Orchestrated software platform for games played by over 2 million users daily",
+      "highlights": []
+    },
+    {
+      "company": "Rubicon Inc",
+      "position": "Software Developer",
+      "website": "",
+      "startDate": "2022-05",
+      "endDate": "2022-09",
+      "summary": "Developed custom software for municipal law enforcement throughout Ontario",
+      "highlights": []
+    }
+  ],
   "education": [
     {
       "institution": "University of British Columbia",
-      "area": "MASc in Electrical and Computer Engineering",
-      "studyType": "",
+      "area": "Electrical Engineering",
+      "studyType": "MASc",
       "startDate": "2025",
       "endDate": "2027",
       "gpa": null,
+      "summary": "Research focus on data-driven optimization and control of power systems",
+      "highlights": [],
       "courses": []
     },
     {
       "institution": "University of Toronto",
-      "area": "BASc in Engineering Science, Honours",
-      "studyType": "",
+      "area": "Engineering Science",
+      "studyType": "BASc",
       "startDate": "2020",
       "endDate": "2025",
       "gpa": null,
+      "summary": "Major in Machine Intelligence, minor in Robotics",
+      "highlights": [
+        "Graduated with Honours",
+        "Thesis Title: Synchronization Problems in Systems Neuroscience"
+      ],
       "courses": []
     }
   ],
@@ -52,6 +82,96 @@
   "references": [],
   "publications": [],
   "presentations": [],
-  "teaching": [],
-  "portfolio": []
+  "teaching": [
+    {
+      "institution": "UBC",
+      "course": "MANU 456",
+      "role": "Teaching Assistant",
+      "date": "2027-01",
+      "startDate": "2027-01",
+      "endDate": "2027-04",
+      "description": ""
+    },
+    {
+      "institution": "UBC",
+      "course": "MECH 466",
+      "role": "Teaching Assistant",
+      "date": "2027-01",
+      "startDate": "2027-01",
+      "endDate": "2027-04",
+      "description": ""
+    },
+    {
+      "institution": "UBC",
+      "course": "ELEC 441",
+      "role": "Teaching Assistant",
+      "date": "2026-01",
+      "startDate": "2026-01",
+      "endDate": "2026-04",
+      "description": ""
+    }
+  ],
+  "portfolio": [],
+  "involvement": [
+    {
+      "organization": "IEEE NextCom",
+      "role": "Picnic Social Event Organizer",
+      "date": "2026-08",
+      "startDate": "2026-08",
+      "endDate": "2026-08",
+      "description": ""
+    },
+    {
+      "organization": "IEEE Conference on Control Technology and Applications",
+      "role": "Volunteer",
+      "date": "2026-08",
+      "startDate": "2026-08",
+      "endDate": "2026-08",
+      "description": ""
+    },
+    {
+      "organization": "IEEE",
+      "role": "Student Member",
+      "date": "2025-11",
+      "startDate": "2025-11",
+      "endDate": "present",
+      "description": ""
+    },
+    {
+      "organization": "Yonge Street Mission",
+      "role": "Volunteer Cook",
+      "date": "2025-01",
+      "startDate": "2025-01",
+      "endDate": "2025-05",
+      "description": ""
+    },
+    {
+      "organization": "University of Toronto Engineering",
+      "role": "UofT Engineering Hockey Team Captain",
+      "date": "2022-09",
+      "startDate": "2022-09",
+      "endDate": "2025-05",
+      "description": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "University of British Columbia Graduate Support Initiative",
+      "date": "2026-01",
+      "awarder": "University of British Columbia",
+      "summary": "$1,500 CAD"
+    },
+    {
+      "title": "Faculty of Applied Science & Engineering Admission Scholarship",
+      "date": "2020-09",
+      "awarder": "University of Toronto",
+      "summary": "$5,000 CAD"
+    },
+    {
+      "title": "RBC Arnold Chan Memorial Prize",
+      "date": "2020-02",
+      "awarder": "",
+      "summary": "$1,000 CAD"
+    }
+  ]
 }

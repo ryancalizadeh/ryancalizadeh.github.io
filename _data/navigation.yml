@@ -4,33 +4,30 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 #
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+# NOTE that the CV page is generated from _data/cv.json (itself generated
+#      from _data/Ryan_Alizadeh_CV.yaml via scripts/generate_cv_json.py).
 
 main:
   - title: "Publications"
     url: /publications/
 
   # - title: "Talks"
-  #   url: /talks/    
+  #   url: /talks/
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
+  - title: "Teaching"
+    url: /teaching/
+
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
   # - title: "Blog Posts"
   #   url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
 
-  - title: "About Me"
-    url: /about/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
+  # - title: "About Me"
+  #   url: /about/
+
   # - title: "Guide"
   #   url: /markdown/
